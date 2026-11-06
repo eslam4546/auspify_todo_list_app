@@ -74,17 +74,14 @@ lib/
 
 ##  Screenshots
 
-| Light Mode | Dark Mode |
- |
-| <img width="370" height="814" alt="image" src="https://github.com/user-attachments/assets/0d2e619f-04c6-46ca-b74c-e995bb81781a" />
-|<img width="370" height="814" alt="image" src="https://github.com/user-attachments/assets/f2432670-c005-4254-bfb6-9fe5566db455" />
-|
 
-| Task Bottom Sheet Form | Insights & Velocity View |
-| <img width="370" height="814" alt="image" src="https://github.com/user-attachments/assets/3a1b9a33-514a-46f8-89dc-226879cc0943" />
- | <img width="370" height="814" alt="image" src="https://github.com/user-attachments/assets/e80cb5b9-d85a-449d-8492-207a7e2fb357" />
- |
-| *(Add Task Input Sheet Screenshot Here)* | *(Add Insights View Screenshot Here)* |
+ <img width="370" height="814" alt="image" src="https://github.com/user-attachments/assets/0d2e619f-04c6-46ca-b74c-e995bb81781a" />
+<img width="370" height="814" alt="image" src="https://github.com/user-attachments/assets/f2432670-c005-4254-bfb6-9fe5566db455" />
+
+
+ <img width="370" height="814" alt="image" src="https://github.com/user-attachments/assets/3a1b9a33-514a-46f8-89dc-226879cc0943" />
+ <img width="370" height="814" alt="image" src="https://github.com/user-attachments/assets/e80cb5b9-d85a-449d-8492-207a7e2fb357" />
+
 
 ---
 
