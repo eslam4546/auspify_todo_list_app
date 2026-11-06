@@ -75,7 +75,9 @@ lib/
 ##  Screenshots
 
 | Light Mode | Dark Mode |
-| :---: | :---: |
+| <img width="370" height="814" alt="image" src="https://github.com/user-attachments/assets/a528367a-836e-490b-95c0-62461cc15e08" />
+ | <img width="370" height="814" alt="image" src="https://github.com/user-attachments/assets/f198e17e-e350-4b86-a108-620215a7ceb8" />
+ |
 | *(Add Light Mode Screenshot Here)* | *(Add Dark Mode Screenshot Here)* |
 
 | Task Bottom Sheet Form | Insights & Velocity View |
