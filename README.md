@@ -4,7 +4,7 @@ An offline-first, production-grade **Flutter To-Do List Application** built as p
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Full CRUD Operations:** Seamlessly Create, Read, Update, and Delete tasks.
 - **Advanced Task Properties:**
@@ -27,7 +27,7 @@ An offline-first, production-grade **Flutter To-Do List Application** built as p
 
 ---
 
-## 🛠 Tech Stack & Architecture
+##  Tech Stack & Architecture
 
 - **Framework:** [Flutter](https://flutter.dev) (Dart 3)
 - **Architecture:** Clean Architecture (Domain, Data, Presentation layers)
@@ -40,7 +40,7 @@ An offline-first, production-grade **Flutter To-Do List Application** built as p
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 lib/
@@ -72,7 +72,7 @@ lib/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Light Mode | Dark Mode |
 | :---: | :---: |
@@ -84,7 +84,7 @@ lib/
 
 ---
 
-## 🚦 How to Run Locally
+##  How to Run Locally
 
 ### Prerequisites
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) (v3.13+ or higher)
@@ -121,7 +121,7 @@ lib/
 
 ---
 
-## 🧪 Verification & Quality Assurance
+##  Verification & Quality Assurance
 
 - **Unit & Bloc Tests:** 10/10 automated tests passing across models, usecases, cubits, and widgets.
 - **Static Analysis:** `flutter analyze` completed with 0 errors and 0 warnings.
