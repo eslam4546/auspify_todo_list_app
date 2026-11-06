@@ -75,10 +75,10 @@ lib/
 ##  Screenshots
 
 | Light Mode | Dark Mode |
-| <img width="370" height="814" alt="image" src="https://github.com/user-attachments/assets/a528367a-836e-490b-95c0-62461cc15e08" />
- | <img width="370" height="814" alt="image" src="https://github.com/user-attachments/assets/f198e17e-e350-4b86-a108-620215a7ceb8" />
  |
-| *(Add Light Mode Screenshot Here)* | *(Add Dark Mode Screenshot Here)* |
+| <img width="370" height="814" alt="image" src="https://github.com/user-attachments/assets/0d2e619f-04c6-46ca-b74c-e995bb81781a" />
+|<img width="370" height="814" alt="image" src="https://github.com/user-attachments/assets/f2432670-c005-4254-bfb6-9fe5566db455" />
+|
 
 | Task Bottom Sheet Form | Insights & Velocity View |
 | :---: | :---: |
