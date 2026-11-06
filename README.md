@@ -1,4 +1,4 @@
-# Task 2 - Offline To-Do List App 📝
+# Task 2 - Offline To-Do List App 
 
 An offline-first, production-grade **Flutter To-Do List Application** built as part of the **Auspify Technologies Practical Training Program**. Engineered with **Clean Architecture**, **Cubit (BLoC)** state management, and local **Hive NoSQL** storage for instantaneous, zero-latency task management.
 
